@@ -1,0 +1,2 @@
+# VezzyBottyBoiye-Ver1.2.5
+✧˚₊⭒✵VEZBOT✵⭒₊˚✧ is your new fave all-in-one Discord bot - complete with a sleek-ass web dashboard, letting every server wear its own perfectly branded identity (੭•̀ω•́)੭ From tickets & embeds to polls, reminders&integrations, Vezzy here delivers powerful automation without sacrificing ✨A E S T H E T I C✨ Built for creators, brands, and story-driven communities, Vezbot is polished, scalable&unapologetically EXTRAAAA♱✶🕯️
