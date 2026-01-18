@@ -1,0 +1,30 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "ticket_hub_channel_id": {
+      "type": "integer"
+    },
+    "use_private_threads": {
+      "type": "boolean"
+    },
+    "staff_role_ids": {
+      "type": "array",
+      "items": {
+        "type": "integer"
+      }
+    },
+    "modules": {
+      "type": "object",
+      "properties": {
+        "tickets": { "type": "boolean" },
+        "embeds": { "type": "boolean" },
+        "polls": { "type": "boolean" },
+        "reminders": { "type": "boolean" }
+      }
+    },
+    "default_timezone": {
+      "type": "string"
+    }
+  }
+}
